@@ -1,4 +1,4 @@
-'''list_0=range(1,51)'''
+list_0=range(1,51)
 list_l=list(map(int,input("sonlarni kiriting: ").split()))
 '11'
 '''
@@ -84,6 +84,7 @@ for list in list_1:
         print(list-2)
 '''
 '27'
+'''
 son=list(map(int,input("sonlarni kiriting: ").split()))
 musbat=[]
 for i in son:
@@ -93,7 +94,7 @@ if musbat==len(son):
     print("barchasi musbat")
 else:    
     print("manfiylar ham bor")
-
+'''
 
 
 
@@ -141,3 +142,4 @@ print(s)
 
 
               
+
